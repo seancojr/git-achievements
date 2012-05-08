@@ -2,6 +2,7 @@
 <title>Sebastian Cork's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Messenger (Level 1)</title><description>Applied a patch using git am.</description></item>
 <item><title>Apprentice Pedantic (Level 2)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
